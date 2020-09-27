@@ -70,16 +70,60 @@
         color: #fff;
         text-align: center;
         margin-top: 60px;
+        font-weight: 400;
     }
 
     .link {
-        width: 45px;
-        height: 45px;
         color: #fff;
-        margin: 190px auto 50px;
+        margin-top: 190px;
         text-align: center;
     }
 
+    #link {
+        height: 45px;
+        width: 45px;
+        margin-bottom: 50px;
+    }
+
+    .header2 {
+        font-size: 48px;
+        font-weight: 700;
+        text-align: center;
+        margin-top: 130px;
+    }
+
+    .body {
+        font-size: 30px;
+        font-weight: 300;
+        text-align: center;
+        margin-top: 75px;
+    }
+
+    .foot {
+        font-size: 60px;
+        font-weight: 700;
+        text-align: center;
+        margin-top: 135px;
+    }
+
+    .skills {
+        text-transform: uppercase;
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 110px;
+        display: flex;
+	    justify-content: space-between;
+    }
+
+    .f-list {
+        font-size: 18px;
+        font-weight: 300;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 35px;
+        margin-bottom: 100px;
+
+    }
 
 
    
