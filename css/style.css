@@ -54,17 +54,19 @@
         text-align: center;
     }
 
-   
-
     .picture .logo {
         display: block;
         height: 135px;
         width: 135px;
         margin: 0 auto 180px;
+        
+    }
+
+    .img {
         transition: all 1.5s;
     }
 
-    .logo:hover {
+    .img:hover {
         transform: rotate(360deg) scale(1.2);
     }
 
